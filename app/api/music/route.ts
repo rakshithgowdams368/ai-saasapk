@@ -1,7 +1,6 @@
 // app/api/payment/create-order/route.ts
 import { auth } from "@clerk/nextjs";
 import { NextResponse } from "next/server";
-import { paypalClient } from "@/lib/paypal/client";
 import { db, getUserByClerkId } from "@/lib/db";
 
 export async function POST(req: Request) {
