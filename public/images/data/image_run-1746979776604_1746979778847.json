@@ -1,0 +1,19 @@
+{
+  "id": "run-1746979776604",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T16:09:36.604Z",
+  "completedAt": "2025-05-11T16:09:36.604Z",
+  "originalPrompt": "dsa",
+  "enhancedPrompt": "dsa, , high quality, detailed",
+  "imageUrls": [
+    "https://picsum.photos/seed/fallback/512/512"
+  ],
+  "model": "free-model-basic",
+  "resolution": "1024x1024",
+  "modelVersion": "minimax/image-01",
+  "input": {
+    "prompt": "dsa, , high quality, detailed",
+    "aspect_ratio": "1:1"
+  },
+  "savedAt": "2025-05-11T16:09:38.848Z"
+}

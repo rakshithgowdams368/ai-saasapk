@@ -1,0 +1,23 @@
+{
+  "id": "3xhvcb2rcnrga0cpmvz8eegw3c",
+  "status": "succeeded",
+  "createdAt": "2025-05-06T19:06:48.805Z",
+  "completedAt": "2025-05-06T19:06:58.445561297Z",
+  "originalPrompt": "Relaxing piano melody",
+  "enhancedPrompt": "professional music, Relaxing piano melody, calm and peaceful, with piano, high quality audio, professional composition, clear sound",
+  "audioUrl": "https://replicate.delivery/czjl/DBDOqWU5MEptCxQx2SokVl9OQXrE1qGrt6zhkPpvOrk0PgKF/gen_sound.wav",
+  "model": "riffusion",
+  "modelVersion": "8cf61ea6c56afd61d8f5b9ffd14d7c216c0a93844ce2d82ac1c9ecc9c7f24e05",
+  "input": {
+    "denoising": 0.75,
+    "guidance_scale": 7.5,
+    "num_inference_steps": 50,
+    "prompt_a": "professional music, Relaxing piano melody, calm and peaceful, with piano, high quality audio, professional composition, clear sound",
+    "prompt_b": "professional music, Relaxing piano melody, calm and peaceful, with piano, high quality audio, professional composition, clear sound",
+    "seed": -1
+  },
+  "metrics": {
+    "predict_time": 9.619322717
+  },
+  "savedAt": "2025-05-06T19:07:10.151Z"
+}

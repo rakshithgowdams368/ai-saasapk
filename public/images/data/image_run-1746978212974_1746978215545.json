@@ -1,0 +1,19 @@
+{
+  "id": "run-1746978212974",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T15:43:32.974Z",
+  "completedAt": "2025-05-11T15:43:32.974Z",
+  "originalPrompt": "dog image",
+  "enhancedPrompt": "dog image, , high quality, detailed",
+  "imageUrls": [
+    {}
+  ],
+  "model": "free-model-basic",
+  "resolution": "512x512",
+  "modelVersion": "minimax/image-01",
+  "input": {
+    "prompt": "dog image, , high quality, detailed",
+    "aspect_ratio": "1:1"
+  },
+  "savedAt": "2025-05-11T15:43:35.547Z"
+}

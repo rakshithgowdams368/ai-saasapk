@@ -1,0 +1,29 @@
+{
+  "id": "39k145rha1rmc0cpr0ztrpybcw",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T16:48:00.848Z",
+  "completedAt": "2025-05-11T16:48:29.088933634Z",
+  "originalPrompt": "the dog running in the mountain",
+  "enhancedPrompt": "the dog running in the mountain, , high quality, detailed",
+  "imageUrls": [
+    "https://replicate.delivery/xezq/JeevHXtezYFbZJanlDS9TP1P6Z8GU0qPDyr0nauhFZH72QXpA/tmptuya_ez6.jpg"
+  ],
+  "model": "free-model-basic",
+  "resolution": "1024x1024",
+  "modelVersion": "hidden",
+  "input": {
+    "aspect_ratio": "1:1",
+    "num_outputs": 1,
+    "prompt": "the dog running in the mountain, , high quality, detailed"
+  },
+  "metrics": {
+    "image_count": 1,
+    "predict_time": 28.236828675
+  },
+  "savedAt": "2025-05-11T16:48:40.632Z",
+  "urls": {
+    "cancel": "https://api.replicate.com/v1/predictions/39k145rha1rmc0cpr0ztrpybcw/cancel",
+    "get": "https://api.replicate.com/v1/predictions/39k145rha1rmc0cpr0ztrpybcw",
+    "stream": "https://stream.replicate.com/v1/files/bcwr-bjpfzyy3s5wjgq2ajecaobpu5eo5enrtgnz3hhbwtnvi53dh7uvq"
+  }
+}

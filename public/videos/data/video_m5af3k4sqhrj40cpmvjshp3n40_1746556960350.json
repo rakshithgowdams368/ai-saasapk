@@ -1,0 +1,17 @@
+{
+  "id": "m5af3k4sqhrj40cpmvjshp3n40",
+  "status": "succeeded",
+  "createdAt": "2025-05-06T18:39:47.132Z",
+  "completedAt": "2025-05-06T18:42:37.085243453Z",
+  "originalPrompt": "generate a video hourse running",
+  "enhancedPrompt": "cinematic, generate a video hourse running, running, high quality, detailed, smooth motion, professional lighting, 4K resolution",
+  "videoUrl": "https://replicate.delivery/yhqm/za3dxK3bTnaNHdwMtwffaseZbu37YLnhMUa526f5iwd0hCoSB/out.mp4",
+  "input": {
+    "prompt": "cinematic, generate a video hourse running, running, high quality, detailed, smooth motion, professional lighting, 4K resolution"
+  },
+  "metrics": {
+    "predict_time": 38.383026607
+  },
+  "model": "cjwbw/videocrafter",
+  "savedAt": "2025-05-06T18:42:40.352Z"
+}

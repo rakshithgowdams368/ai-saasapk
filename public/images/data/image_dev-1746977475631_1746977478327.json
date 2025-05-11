@@ -1,0 +1,20 @@
+{
+  "id": "dev-1746977475631",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T15:31:15.632Z",
+  "completedAt": "2025-05-11T15:31:15.632Z",
+  "originalPrompt": "Mountain landscape during sunset",
+  "enhancedPrompt": "Mountain landscape during sunset, , high quality, detailed",
+  "imageUrls": [
+    "https://replicate.delivery/pbxt/6tYXdFj9LzNV7WAhMVORFT1TBFvUDnBWjMUFEYHlGWNiEXfEA/out-0.png"
+  ],
+  "model": "free-model-basic",
+  "resolution": "1024x1024",
+  "modelVersion": "8321547dafa546b4ad15bae51e2caa18cab63b1f6184c41f13ead5803207d41d",
+  "input": {
+    "prompt": "Mountain landscape during sunset, , high quality, detailed",
+    "aspect_ratio": "1:1",
+    "num_outputs": 1
+  },
+  "savedAt": "2025-05-11T15:31:18.331Z"
+}

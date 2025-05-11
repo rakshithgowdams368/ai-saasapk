@@ -1,0 +1,29 @@
+{
+  "id": "72ac7k56psrma0cpr0yvd41wqr",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T16:46:28.022Z",
+  "completedAt": "2025-05-11T16:46:58.975811181Z",
+  "originalPrompt": "the cat ",
+  "enhancedPrompt": "the cat , , high quality, detailed",
+  "imageUrls": [
+    "https://replicate.delivery/xezq/TOmw6dpAXaKQM1jovs2py8GLTsPSkBlW7OBy3Ski7fRBN0VKA/tmpoteqoiz1.jpg"
+  ],
+  "model": "free-model-basic",
+  "resolution": "1024x1024",
+  "modelVersion": "hidden",
+  "input": {
+    "aspect_ratio": "1:1",
+    "num_outputs": 1,
+    "prompt": "the cat , , high quality, detailed"
+  },
+  "metrics": {
+    "image_count": 1,
+    "predict_time": 30.948388388
+  },
+  "savedAt": "2025-05-11T16:47:06.029Z",
+  "urls": {
+    "cancel": "https://api.replicate.com/v1/predictions/72ac7k56psrma0cpr0yvd41wqr/cancel",
+    "get": "https://api.replicate.com/v1/predictions/72ac7k56psrma0cpr0yvd41wqr",
+    "stream": "https://stream.replicate.com/v1/files/bcwr-7ktdfyadyiswx5yswk76c3p5xcvqekl5kcbb7fckqoifbqre3acq"
+  }
+}

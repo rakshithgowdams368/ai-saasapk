@@ -1,0 +1,17 @@
+{
+  "id": "gec9hqce2xrj40cpmvprk7fchr",
+  "status": "succeeded",
+  "createdAt": "2025-05-06T18:48:28.439Z",
+  "completedAt": "2025-05-06T18:49:19.234477595Z",
+  "originalPrompt": "the hourse running in the mountan",
+  "enhancedPrompt": "cinematic, the hourse running in the mountan, running, high quality, detailed, smooth motion, professional lighting, 4K resolution",
+  "videoUrl": "https://replicate.delivery/yhqm/769LmQbZpAqpEJJjTaKGc9cfZJvV7mnYoWrfScMpK0OvuAqUA/out.mp4",
+  "input": {
+    "prompt": "cinematic, the hourse running in the mountan, running, high quality, detailed, smooth motion, professional lighting, 4K resolution"
+  },
+  "metrics": {
+    "predict_time": 38.262931554
+  },
+  "model": "cjwbw/videocrafter",
+  "savedAt": "2025-05-06T18:49:21.277Z"
+}

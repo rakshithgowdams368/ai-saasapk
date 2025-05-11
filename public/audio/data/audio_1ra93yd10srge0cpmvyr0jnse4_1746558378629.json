@@ -1,0 +1,23 @@
+{
+  "id": "1ra93yd10srge0cpmvyr0jnse4",
+  "status": "succeeded",
+  "createdAt": "2025-05-06T19:06:01.862Z",
+  "completedAt": "2025-05-06T19:06:11.582548751Z",
+  "originalPrompt": "Indie folk guitar composition",
+  "enhancedPrompt": "professional music, Indie folk guitar composition, with guitar, high quality audio, professional composition, clear sound",
+  "audioUrl": "https://replicate.delivery/czjl/1AXXMddbNLpVLV9Xq26xKYRHEP5GoT4A4lpqoP6Dzx5oPgKF/gen_sound.wav",
+  "model": "riffusion",
+  "modelVersion": "8cf61ea6c56afd61d8f5b9ffd14d7c216c0a93844ce2d82ac1c9ecc9c7f24e05",
+  "input": {
+    "denoising": 0.75,
+    "guidance_scale": 7.5,
+    "num_inference_steps": 50,
+    "prompt_a": "professional music, Indie folk guitar composition, with guitar, high quality audio, professional composition, clear sound",
+    "prompt_b": "professional music, Indie folk guitar composition, with guitar, high quality audio, professional composition, clear sound",
+    "seed": -1
+  },
+  "metrics": {
+    "predict_time": 9.696391732
+  },
+  "savedAt": "2025-05-06T19:06:18.632Z"
+}

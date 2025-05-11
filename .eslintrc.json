@@ -1,0 +1,5 @@
+//file path :-ai-saas-antonio-main/.eslintrc.json
+
+{
+  "extends": "next/core-web-vitals"
+}

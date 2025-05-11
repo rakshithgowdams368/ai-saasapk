@@ -1,0 +1,19 @@
+{
+  "id": "run-1746980141958",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T16:15:41.958Z",
+  "completedAt": "2025-05-11T16:15:41.958Z",
+  "originalPrompt": "Mountain landscape during sunset",
+  "enhancedPrompt": "Mountain landscape during sunset, , high quality, detailed",
+  "imageUrls": [
+    "https://picsum.photos/seed/fallback/512/512"
+  ],
+  "model": "free-model-basic",
+  "resolution": "1024x1024",
+  "modelVersion": "minimax/image-01",
+  "input": {
+    "prompt": "Mountain landscape during sunset, , high quality, detailed",
+    "aspect_ratio": "1:1"
+  },
+  "savedAt": "2025-05-11T16:15:45.874Z"
+}

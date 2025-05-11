@@ -1,0 +1,17 @@
+{
+  "id": "tyt7j6apw5rj20cpmw5t3nzykm",
+  "status": "succeeded",
+  "createdAt": "2025-05-06T19:21:00.385Z",
+  "completedAt": "2025-05-06T19:23:19.877572509Z",
+  "originalPrompt": "the love birds kissing each others ",
+  "enhancedPrompt": "cinematic, the love birds kissing each others , high quality, detailed, smooth motion, professional lighting, 4K resolution",
+  "videoUrl": "https://replicate.delivery/yhqm/yKTNjb4x2c7WIJxm6vifljXnoRfH20Vuinw3WufBJp3PdCUpA/out.mp4",
+  "input": {
+    "prompt": "cinematic, the love birds kissing each others , high quality, detailed, smooth motion, professional lighting, 4K resolution"
+  },
+  "metrics": {
+    "predict_time": 38.315889365
+  },
+  "model": "cjwbw/videocrafter",
+  "savedAt": "2025-05-06T19:23:24.816Z"
+}

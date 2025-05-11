@@ -1,0 +1,19 @@
+{
+  "id": "run-1746978921549",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T15:55:21.549Z",
+  "completedAt": "2025-05-11T15:55:21.549Z",
+  "originalPrompt": "sd",
+  "enhancedPrompt": "sd, , high quality, detailed",
+  "imageUrls": [
+    {}
+  ],
+  "model": "free-model-basic",
+  "resolution": "1024x1024",
+  "modelVersion": "minimax/image-01",
+  "input": {
+    "prompt": "sd, , high quality, detailed",
+    "aspect_ratio": "1:1"
+  },
+  "savedAt": "2025-05-11T15:55:23.808Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mock-1746979716472",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T16:08:36.472Z",
+  "completedAt": "2025-05-11T16:08:36.472Z",
+  "originalPrompt": "Majestic snow-capped mountains during golden sunset, clear sky, reflections in a calm lake, photorealistic",
+  "enhancedPrompt": "Majestic snow-capped mountains during golden sunset, clear sky, reflections in a calm lake, photorealistic",
+  "imageUrls": [
+    "https://picsum.photos/seed/img1/1024/1024"
+  ],
+  "model": "free-model-basic",
+  "resolution": "1024x1024",
+  "modelVersion": "minimax/image-01",
+  "input": {
+    "prompt": "Majestic snow-capped mountains during golden sunset, clear sky, reflections in a calm lake, photorealistic",
+    "aspect_ratio": "1:1"
+  },
+  "savedAt": "2025-05-11T16:08:39.773Z"
+}

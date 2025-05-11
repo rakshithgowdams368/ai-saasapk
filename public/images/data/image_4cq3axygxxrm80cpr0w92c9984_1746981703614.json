@@ -1,0 +1,29 @@
+{
+  "id": "4cq3axygxxrm80cpr0w92c9984",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T16:41:11.151Z",
+  "completedAt": "2025-05-11T16:41:37.915353324Z",
+  "originalPrompt": "the dog image",
+  "enhancedPrompt": "the dog image, , high quality, detailed",
+  "imageUrls": [
+    "https://replicate.delivery/xezq/UfYjpgM9fHhgQEjlKhpBPSa5EgOIA7829HzGCiA8rTABVorUA/tmp77skwxgc.jpg"
+  ],
+  "model": "free-model-basic",
+  "resolution": "1024x1024",
+  "modelVersion": "hidden",
+  "input": {
+    "aspect_ratio": "1:1",
+    "num_outputs": 1,
+    "prompt": "the dog image, , high quality, detailed"
+  },
+  "metrics": {
+    "image_count": 1,
+    "predict_time": 26.759041523
+  },
+  "savedAt": "2025-05-11T16:41:43.615Z",
+  "urls": {
+    "cancel": "https://api.replicate.com/v1/predictions/4cq3axygxxrm80cpr0w92c9984/cancel",
+    "get": "https://api.replicate.com/v1/predictions/4cq3axygxxrm80cpr0w92c9984",
+    "stream": "https://stream.replicate.com/v1/files/bcwr-2hrqj344qkrywfspxtxst4h66h5igcpkm6td6atwvknxuml5l5iq"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "run-1746978056113",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T15:40:56.113Z",
+  "completedAt": "2025-05-11T15:40:56.113Z",
+  "originalPrompt": "Wide-angle shot of jagged mountains at sunset, golden hour lighting, dramatic shadows, crisp air, pristine alpine lake in foreground with perfect reflections, wispy clouds, vibrant colors, 8K, professional photography",
+  "enhancedPrompt": "Wide-angle shot of jagged mountains at sunset, golden hour lighting, dramatic shadows, crisp air, pristine alpine lake in foreground with perfect reflections, wispy clouds, vibrant colors, 8K, professional photography",
+  "imageUrls": [
+    {}
+  ],
+  "model": "free-model-basic",
+  "resolution": "512x512",
+  "modelVersion": "minimax/image-01",
+  "input": {
+    "prompt": "Wide-angle shot of jagged mountains at sunset, golden hour lighting, dramatic shadows, crisp air, pristine alpine lake in foreground with perfect reflections, wispy clouds, vibrant colors, 8K, professional photography",
+    "aspect_ratio": "1:1"
+  },
+  "savedAt": "2025-05-11T15:40:58.909Z"
+}

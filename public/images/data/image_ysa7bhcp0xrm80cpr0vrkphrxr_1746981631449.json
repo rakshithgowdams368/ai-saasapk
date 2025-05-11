@@ -1,0 +1,29 @@
+{
+  "id": "ysa7bhcp0xrm80cpr0vrkphrxr",
+  "status": "succeeded",
+  "createdAt": "2025-05-11T16:39:50.535Z",
+  "completedAt": "2025-05-11T16:40:25.319976652Z",
+  "originalPrompt": "Majestic snow-capped mountains during golden sunset, clear sky, reflections in a calm lake, photorealistic",
+  "enhancedPrompt": "Majestic snow-capped mountains during golden sunset, clear sky, reflections in a calm lake, photorealistic",
+  "imageUrls": [
+    "https://replicate.delivery/xezq/dNQmZTcQNu5vP1nlWxOrstuboi8AIEDL5KMcysjqJFTeJ0VKA/tmp2hofmetv.jpg"
+  ],
+  "model": "free-model-basic",
+  "resolution": "1024x1024",
+  "modelVersion": "hidden",
+  "input": {
+    "aspect_ratio": "1:1",
+    "num_outputs": 1,
+    "prompt": "Majestic snow-capped mountains during golden sunset, clear sky, reflections in a calm lake, photorealistic"
+  },
+  "metrics": {
+    "image_count": 1,
+    "predict_time": 34.779037204
+  },
+  "savedAt": "2025-05-11T16:40:31.451Z",
+  "urls": {
+    "cancel": "https://api.replicate.com/v1/predictions/ysa7bhcp0xrm80cpr0vrkphrxr/cancel",
+    "get": "https://api.replicate.com/v1/predictions/ysa7bhcp0xrm80cpr0vrkphrxr",
+    "stream": "https://stream.replicate.com/v1/files/bcwr-7ogl73zjldswusmudseokbx5vmgx76uhsr27elxjjmitlbgkayxq"
+  }
+}
